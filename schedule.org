@@ -1,0 +1,227 @@
+* TASKS
+** DONE Sign up for gym
+SCHEDULED: <2019-01-27 Sun>
+** DONE Do shopping & cook dinner
+SCHEDULED: <2019-01-27 Sun>
+** DONE Go to gym on Monday
+[2019-01-27 Sun 18:36]
+** TODO Finish self authoring program
+[2019-01-27 Sun 18:34]
+*** TODO Past
+*** TODO Future
+*** TODO Virtues
+*** TODO Faults
+
+
+* WORKOUTS
+** [2019-01-28 Mon] GYM
+| Excercise       | rep 1  | rep 2  | rep 3 |
+| biceps barbel   | 10kg 6 | 12.5 4 |       |
+| bi bent         | 10kg 7 | 10 6   |       |
+| bi straight     | 10kg 8 | 20 4   |       |
+| bi barbel ecc   | 15kg 2 |        |       |
+| band pull apart | 15     | 10     |       |
+** [2019-01-29 Tue] GYM
+| Excercise         | rep 1    | rep 2    | rep 3    |
+| plecy - pull down | 15lbs 10 | 20lbs 10 | 25lbs 10 |
+| sztanga - pull up | 10kg 10  | 15kg 10  | 20kg 10  |
+| dumbell - pull up | 10kg 10  | 15kg 10  | 20kg 6   |
+| deadlift          | 40kg 10  | 50kg 10  | 50kg 8   |
+| band pull apart   | 20       | 15       | 10       |
+| plank             | 135s     |          |          |
+| deep stretch      | 1min     | 1min     | 1min     |
+** [2019-01-30 Wed] GYM
+| Excercise        |    rep 1 |    rep 2 |    rep 3 |
+| Triceps curlbar  |  10kg 10 |   10kg 8 |   10kg 4 |
+| pull down bar    | 25lbs 10 | 30lbs 10 | 35lbs 10 |
+| dips 80lbs assis |       10 |       10 |       10 |
+| bench dips       |       10 |        8 |        7 |
+| band pull apart  |       20 |       15 |       10 |
+| plank            |     140s |          |          |
+| deep stretch     |        1 |        1 |        1 |
+** [2019-01-31 Thu] GYM
+| Excercise     | rep 1   | rep 2   | rep 3   |
+| Chest - bench | 30kg 10 | 30kg 10 | 40 8    |
+| Incline dumb  | 10kg 10 | 12.5 8  | 15kg 6  |
+| dips-assisted | 80lb 5  | 80lb 3  |         |
+| pull wires    | 10lb 10 | 15lb 10 | 15lb 10 |
+| band pull apa | 20      | 15      | 10      |
+| stretch       | 1       | 1       | 1       |
+| plank         | 120s   |         |         |
+** [2019-02-01 Fri] GYM
+| Excercise    | rep 1   | rep 2  | rep 3  | rep 4 |
+| Bary str bar | 10kg 10 | 15k 10 | 20k 8  | 25k 5 |
+| Side dumbbel | 4kg 10  | 4kg 10 | 5kg 8  |       |
+| Back fly     | 4kg 12  | 4kg 12 | 5kg 8  | 6kg 8 |
+| Face pull    | 10lb 10 | 15lg 8 | 20lb 4 |       |
+| Stretch      | 1m      | 1m     | 1m     |       |
+| Band pull    | 15      | 10     | 10     |       |
+| Plank        | 145s    |        |        |       |
+** [2019-02-02 Sat] GYM
+| Excercise         | rep 1    | rep 2   | rep 3   |
+| Plecy bar pull up | 20kg 10  | 24kg 10 | 24kg 10 |
+| dead lift         | 24kg 10  | 40kg 10 | 60kg 6  |
+| bar pull over it  | 10kg 10  | 20kg    | 30kg 8  |
+| bar pull down     | 40lbs 10 | 45lb 10 | 50lb 6  |
+| stretch           | 1min     | 1min    | 1min    |
+| band apart        | 10       | 10      | injury  |
+** [2019-02-05 Tue] GYM
+| Excercise    | rep 1 | rep 2 | rep 3 |
+| deep stretch | 1min  | 1min  |       |
+** [2019-02-06 Wed] GYM
+| Excercise    | rep 1 | rep 2 | rep 3 |
+| Deep stretch | 1min  | 1min  | 1min  |
+** [2019-02-07 Thu] GYM
+| Excercise               | rep 1 | rep 2 | rep 3 |
+| deep stretch            | 1m    | 1m    | 1m    |
+| band apart - very light | 10    | 10    |       |
+** [2019-02-08 Fri] GYM
+| Excercise       | rep 1   | rep 2   | rep 3   |
+| Deep stretch    | 1m      | 1m      | 1m      |
+| Band pull apart | 10      | 10      | 10      |
+| Push up         | 5       | 5       |         |
+| Deadlift        | 20kg 20 | 20kg 20 | 20kg 20 |
+** [2019-02-09 Sat] GYM
+| Excercise      | rep 1   | rep 2   | rep 3   | rep 4   |
+| Deadlift       | 40kg 10 | 40kg 10 | 40kg 10 | 40kg 10 |
+| Biceps str bar | 20kg 10 | 20kg 10 | 15kg 8  |         |
+| Biceps curls   | 7.5k 10 | 10kg 4  | 12.5k 2 |         |
+| Band apart     | 10      | 10      | 10      |         |
+| Stretch        | 1m      | 1m      | 1m     |         |
+** [2019-02-10 Sun] HOME
+| Excercise       | rep 1 | rep 2 | rep 3 |
+| Deep stretch    | 1min  | 1min  | 1min  |
+| Band pull apart | 10    | 15    | 20    |
+** [2019-02-11 Mon] JOG
+| Time per km | Distance |
+|        6.45 | 6km      |
+** [2019-02-12 Tue] GYM
+| Excercise        | rep 1    | rep 2    | rep 3  |
+| Triceps easy bar | 10kg 10  | 12.5kg 8 | 15kg 4 |
+| Pull down rope   | 20lbs 10 | 25lb 7   | 25lb 4 |
+| Pull down bar    | 30lb 10  | 35lb 10  | 40lb 5 |
+| Stretch          | 1m       | 1m       | 1m     |
+| Band pull apart  | 20       | 15       | 15     |
+| Plank            | 60s      | 65s      | 90s    |
+** [2019-02-14 Thu] GYM
+| Excercise       | rep 1    | rep 2   | rep 3   |
+| chest dumbbells | 7.5kg 10 | 10kg 10 | 10kg 10 |
+| dumb incline    | 7.5kg 10 | 7.5 5   |         |
+| brzuszki        | 10       | 10      | 10      |
+| stretch         | 1        | 1       | 1MIN    |
+| band pull apart | 20       | 15      | 10      |
+| plank           | 60s      | 65s     | 90s     |
+** [2019-02-15 Fri] JOG
+| Time per km | Distance |
+|           7 | 5km      |
+** [2019-02-16 Sat] GYM
+| Excercise   | rep 1   | rep 2   | rep 3   |
+| pull up bar | 10kg 10 | 10kg 10 | 15kg 10 |
+| pull down   | 20lb 10 | 25lb 10 | 30lb 10 |
+| row         | 20lb 10 | 25lb 10 | 30lb 10 |
+| hip         | 25lb 10 | 30lb 10 | 35lb 5  |
+| deadlift    | 40kg 10 | 40kg 8  | 50kg 10 |
+| stretch     | 1min    | 1min    | 1 min   |
+| band apart  | 20      | 15      | 10      |
+** [2019-02-18 Mon] JOG
+| Time per km | Distance |
+|         5.4 |      6.5 |
+** [2019-02-19 Wed] GYM
+| Excercise           | rep 1 | rep 2 | rep 3 |   |
+| Pull up - eccentric |     8 |     8 |     8 | 8 |
+| Plank               |    65 |    75 |    90 |   |
+| Band apart          |    20 |    15 |    10 |   |
+** [2019-02-21 Thu] JOG
+| Time per km | Distance |
+|        5.48 | 6.5km    |
+** [2019-02-22 Fri] GYM
+| Excercise | rep 1   | rep 2   | rep 3   |
+| Glutes    | 32lb 50 | 50lb 20 | 50lb 20 |
+| Leg press | 75lb 10 | 85lb 10 | 100lb 6 |
+| Squat     | 40kg 10 | 40kg 8  | 50kg 6  |
+| Stretch   | 1       | 1       | 1       |
+** [2019-02-23 Sat] JOG
+| Time per km | Distance |
+|        5.17 | 6.5km   |
+** [2019-02-25 Mon] GYM
+| Excercise           | rep 1 | rep 2 | rep 3 |   |
+| pull upp eccentric  |     8 |     8 |     7 | 5 |
+| rows - back         |     8 |     8 |     6 |   |
+| pull up bar incline |     6 |     6 |     6 |   |
+| face pulls          |     5 |     5 |     8 |   |
+** [2019-02-26 Tue] JOG
+| Time per km | Distance |
+|        5.17 | 6.5      |
+** [2019-02-28 Thu] GYM
+| Excercise       | rep 1   | rep 2   | rep 3    |
+| chest bar       | 30kg 10 | 40kg 8  | 50kg 3   |
+| dumbels incline | 10kg 10 | 15kg 6  | 17.5kg 4 |
+| linki cross     | 10lb 10 | 10lb 10 | 10lb 6   |
+** [2019-03-01 Fri] JOG
+| Time per km | Distance |
+|        4.47 | 6.66     |
+** [2019-03-05 Tue] GYM
+| Excercise     | rep 1    | rep 2       | rep 3    | rep 4  |
+| Triceps bar   | 5kg 10   | 10kg 8      | 12.5kg 2 | 10kg 6 |
+| Dips assisted | 50k 10   | 50-1step 10 | 50-2 8   | 50-3 7 |
+| bar down      | 20lbs 10 | 30lbs 4     |          |        |
+| bench         | 10       | 10          | 8        |        |
+** [2019-03-09 Sat] GYM
+| Excercise    | rep 1  | rep 2   | rep 3  |
+| Klata bar    | 30 10  | 35 10   | 40 10  |
+| incline dumb | 10 10  | 12.5 8  | 15 6   |
+| links across | 5lb 15 | 10lb 10 | 10lb 8 |
+| floor dumb   | 10 10  | 12.5 6  |        |
+** [2019-03-15 Fri] GYM
+| Excercise    | rep 1   | rep 2  | rep 3          |        |
+| Triceps dips | 8       | 7      | 5              |        |
+| bent bar     | 5kg 10  | 10kg 8 | 10kg 8         | 20kg 2 |
+| linki        | 3 10    | 4 10   | 4 10           | 6 2    |
+| pull down    | 35lb 10 | 40lb 8 | 45 3           |        |
+| hips         | 20      | 20     |                |        |
+| plank        | 65s     | 95s    | 120s + 30 legs |        |
+** [2019-03-16 Sat] JOG
+| Time per km | Distance |
+|        5.10 | 6.5c    |
+** [2019-03-19 Tue] JOG
+| Time per km | Distance |
+|         6.1 | 6.5     |
+** [2019-03-20 Wed] JOG
+| Time per km | Distance |
+|        6.34 | 6.6km    |
+** [2019-03-21 Thu] GYM
+| Excercise        | rep 1     | rep 2  | rep 3  |
+| biceps dumb bell | 15kg 4    | 12.5 6 | 12.5 4 |
+| bent bar         | 20kg 4    | 20kg 3 | 20kg 3 |
+| link             | 6plates 6 | 6p 4   | 6p 3   |
+| przedramiona     | 15lb 6    | 20lb 3 | 20lb 3 |
+** [2019-03-22 Fri] GYM
+| Excercise         | rep 1    | rep 2    | rep 3  |
+| leg barbell squat | 30kg 8   | 40kg 6   | 30kg 6 |
+| curls             | 50lb 10  | 70lb 8   | 70lb 8 |
+| leg press         | 100lb 10 | 110lb 10 |        |
+| leg press incline | 50kg 10  | 60kg 8   | 70kg 6 |
+** [2019-03-26 Tue] JOG
+| Time per km | Distance |
+|        5:51 | 6.6km    |
+** [2019-03-27 Wed] GYM
+| Excercise     | rep 1      | rep 2  | rep 3  |
+| Deadlift      | 40 10      | 50 8   | 60 4   |
+| Bar pull up   | 10 10      | 20 10  | 20 8   |
+| One hand pull | 3taleze 10 | 4t 8   | 5t 6   |
+| Rowing        | 45lb 10    | 50lb 8 | 55lb 3 |
+| Drop down     | 10         | 6      |        |
+** [2019-03-28 Thu] JOG
+| Time per km | Distance |
+|        5.50 | 6.6km    |
+** [2019-04-02 Tue] GYM
+| Excercise      | rep 1      | rep 2   | rep 3    |        |
+| dumb bell curl | 7.5kg 10   | 10kg 10 | 12.5kg 8 | 15kg 2 |
+| linki          | 2taleze 10 | 3t 6    | 2t 8     |        |
+| straight bar   | 15kg 10    | 20kg 5  | 25kg 2   |        |
+** [2019-04-03 Wed] GYM
+| Excercise         | rep 1   | rep 2   | rep 3   |        |
+| bench klata       | 10kg 10 | 20kg 10 | 25kg 10 | 30kg 4 |
+| dumbbells incline | 10kg 10 | 12.5 10 | 15kg 6  | 17.5 3 |
+| dips              | 3       | 3       | 2       |        |
+| linki crossover   | 2t  10  | 3t 7    | 2t 8    |        |
